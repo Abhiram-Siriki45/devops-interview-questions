@@ -1,4 +1,4 @@
-# Questions and answers to help you prepare for a job interview for the position of Devops Engineer (2023)
+# Questions and answers to help you prepare for a job interview for the position of Devops Engineer (2023).
 
 This project repository contains a collection of questions and answers for DevOps interviews. The questions are based on common DevOps concepts, tools, and technologies. The answers are comprehensive and informative, and they are written in a clear and concise style.
 
